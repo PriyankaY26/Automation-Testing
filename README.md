@@ -1,1 +1,1 @@
-# Automation-Testing
+Playwright supports Javascript and Typescript
